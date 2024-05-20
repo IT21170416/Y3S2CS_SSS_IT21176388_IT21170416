@@ -49,4 +49,11 @@ Your DApp should now be running and accessible in your browser. By default, it w
 - **Ganache not starting**: Ensure that Ganache is properly installed and running before executing the Truffle commands.
 - **Compilation errors**: Check the Solidity code in the `contracts/` directory for syntax errors.
 
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+- [@Pemarathna I.R.C](https://github.com/IT21170416)
+- [@Ariyarathna H.C.K](https://github.com/IT21176388)
+
 Happy coding! 🚀
